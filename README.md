@@ -2,9 +2,9 @@
 
 An interactive mortgage and loan calculator built with Python, pandas, and Streamlit. It shows the true monthly cost of a home loan, breaks down every payment into principal and interest, and models how extra payments, shorter terms, or refinancing change the total cost.
 
-**Live demo:** _add your Streamlit Cloud link here_
+**Live demo:** (https://if116-mortgage-calculator.streamlit.app/)
 
-![Screenshot](docs/screenshot.png) <!-- add a screenshot after deploying -->
+
 
 ## Features
 
